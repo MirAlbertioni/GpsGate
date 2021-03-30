@@ -1,0 +1,14 @@
+C:\Users\Mir.Albertioni\source\repos\GpsGate\GpsGate\bin\Debug\GpsGate.exe.config
+C:\Users\Mir.Albertioni\source\repos\GpsGate\GpsGate\bin\Debug\GpsGate.exe
+C:\Users\Mir.Albertioni\source\repos\GpsGate\GpsGate\bin\Debug\GpsGate.pdb
+C:\Users\Mir.Albertioni\source\repos\GpsGate\GpsGate\obj\Debug\GpsGate.csprojAssemblyReference.cache
+C:\Users\Mir.Albertioni\source\repos\GpsGate\GpsGate\obj\Debug\MainWindow.baml
+C:\Users\Mir.Albertioni\source\repos\GpsGate\GpsGate\obj\Debug\MainWindow.g.cs
+C:\Users\Mir.Albertioni\source\repos\GpsGate\GpsGate\obj\Debug\App.g.cs
+C:\Users\Mir.Albertioni\source\repos\GpsGate\GpsGate\obj\Debug\GpsGate_MarkupCompile.cache
+C:\Users\Mir.Albertioni\source\repos\GpsGate\GpsGate\obj\Debug\GpsGate.g.resources
+C:\Users\Mir.Albertioni\source\repos\GpsGate\GpsGate\obj\Debug\GpsGate.Properties.Resources.resources
+C:\Users\Mir.Albertioni\source\repos\GpsGate\GpsGate\obj\Debug\GpsGate.csproj.GenerateResource.cache
+C:\Users\Mir.Albertioni\source\repos\GpsGate\GpsGate\obj\Debug\GpsGate.csproj.CoreCompileInputs.cache
+C:\Users\Mir.Albertioni\source\repos\GpsGate\GpsGate\obj\Debug\GpsGate.exe
+C:\Users\Mir.Albertioni\source\repos\GpsGate\GpsGate\obj\Debug\GpsGate.pdb

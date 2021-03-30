@@ -1,0 +1,20 @@
+﻿<Window x:Class="GpsGate.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" 
+        Width="Auto" Height="Auto" SizeToContent="WidthAndHeight">
+    <ScrollViewer Height="500" Width="800" VerticalScrollBarVisibility="Visible">
+        <Canvas x:Name="mainCanvas" Height="500" Width="800">
+            <Button x:Name="newBtn" Height="30" Width="100"   
+                Canvas.Left="450" Canvas.Top="10"
+                Content="Add new buttons" 
+                Click="NewBtn_Click">
+            </Button>
+            <Button x:Name="clearBtn" Height="30" Width="100"   
+                Canvas.Left="250" Canvas.Top="10"
+                Content="Clear all lines" 
+                Click="ClearBtn_Click">
+            </Button>
+        </Canvas>
+    </ScrollViewer>
+</Window>
